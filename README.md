@@ -37,7 +37,6 @@ This project was completed as part of the **DecodeLabs Data Analytics Internship
 
 The dataset was successfully cleaned and verified, making it ready for further data analysis.
 
----
 
 **Author:** Your Name
-**Internship:** DecodeLabs Data Analytics Internship
+**Internship:** DecodeLabs Data Analyt
